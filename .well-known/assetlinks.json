@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.umesh581.twa",
+        "sha256_cert_fingerprints": ["FC:46:B7:7A:69:6C:BF:6C:12:FA:54:DA:DB:F9:F8:10:E3:A7:E6:07:0D:58:09:A3:04:D9:63:48:2D:6D:71:40"]
+      }
+    }]
